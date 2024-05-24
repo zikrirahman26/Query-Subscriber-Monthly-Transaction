@@ -1,0 +1,9 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8õ÷ÌÆú1J$cdb770e2-87b3-4cd9-a2d2-8dc23f41b2a7
+”
+java:S1128"QRemove this unused import 'org.springframework.data.jdbc.repository.query.Query'.(¹Â‹ý8Ó…îÇú1J$79b77dfb-fc1e-4f8c-9125-0b8a90b3aeb4
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Ô…îÇú1J$f464175b-b152-45d2-88e4-197e56114abb
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8Ô…îÇú1J$54eceef2-30a3-4a31-8715-4b566a38d480
